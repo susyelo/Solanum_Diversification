@@ -1,0 +1,6 @@
+Data/
+Output/
+Figures/
+*.Rout
+*.Rproj
+*_out

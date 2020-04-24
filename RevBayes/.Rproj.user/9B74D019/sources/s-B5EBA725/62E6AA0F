@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587760160620.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4243733687",
+    "id" : "62E6AA0F",
+    "lastKnownWriteTime" : 1551838716,
+    "last_content_update" : 1551838716,
+    "path" : "~/Git_repo/BioDiv/Solanum_DivRates/BAMM2.5_analysis/1_Processing_BAMM_runs.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
