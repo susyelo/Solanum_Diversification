@@ -1,3 +1,4 @@
 Data/
 .Rout
-.Rproj.user
+*Rproj.user
+.Rproj.user/*
