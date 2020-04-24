@@ -1,5 +1,3 @@
 Data/
-Output/
-Figures/
-*.Rout
-*.Rproj
+.Rout
+.Rproj.user
